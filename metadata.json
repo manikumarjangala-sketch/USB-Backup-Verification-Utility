@@ -1,0 +1,6 @@
+{
+  "name": "USB Backup Verification Utility",
+  "description": "An academic backup integrity verification utility that uses CRC-32 to verify whether files copied to a USB drive match their original versions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
